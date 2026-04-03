@@ -1,0 +1,4 @@
+import os
+
+GOOGLE_PLACES_API_KEY = os.getenv("GOOGLE_PLACES_API_KEY")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
